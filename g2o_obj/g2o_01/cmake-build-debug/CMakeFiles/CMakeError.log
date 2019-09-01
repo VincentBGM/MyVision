@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/vincent/Desktop/Qt_MyProject/g2o_obj/g2o_add_edge/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_519c9/fast 
+/usr/bin/make -f CMakeFiles/cmTC_519c9.dir/build.make CMakeFiles/cmTC_519c9.dir/build
+make[1]: 进入目录“/home/vincent/Desktop/Qt_MyProject/g2o_obj/g2o_add_edge/cmake-build-debug/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_519c9.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_519c9.dir/CheckSymbolExists.c.o   -c /home/vincent/Desktop/Qt_MyProject/g2o_obj/g2o_add_edge/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_519c9
+/snap/clion/73/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_519c9.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_519c9.dir/CheckSymbolExists.c.o  -o cmTC_519c9 
+CMakeFiles/cmTC_519c9.dir/CheckSymbolExists.c.o：在函数‘main’中：
+CheckSymbolExists.c:(.text+0x1b)：对‘pthread_create’未定义的引用
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_519c9.dir/build.make:86: recipe for target 'cmTC_519c9' failed
+make[1]: *** [cmTC_519c9] Error 1
+make[1]: 离开目录“/home/vincent/Desktop/Qt_MyProject/g2o_obj/g2o_add_edge/cmake-build-debug/CMakeFiles/CMakeTmp”
+Makefile:121: recipe for target 'cmTC_519c9/fast' failed
+make: *** [cmTC_519c9/fast] Error 2
+
+File /home/vincent/Desktop/Qt_MyProject/g2o_obj/g2o_add_edge/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/vincent/Desktop/Qt_MyProject/g2o_obj/g2o_add_edge/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fa06d/fast 
+/usr/bin/make -f CMakeFiles/cmTC_fa06d.dir/build.make CMakeFiles/cmTC_fa06d.dir/build
+make[1]: 进入目录“/home/vincent/Desktop/Qt_MyProject/g2o_obj/g2o_add_edge/cmake-build-debug/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_fa06d.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_fa06d.dir/CheckFunctionExists.c.o   -c /snap/clion/73/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_fa06d
+/snap/clion/73/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fa06d.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_fa06d.dir/CheckFunctionExists.c.o  -o cmTC_fa06d -lpthreads 
+/usr/bin/ld: 找不到 -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_fa06d.dir/build.make:86: recipe for target 'cmTC_fa06d' failed
+make[1]: *** [cmTC_fa06d] Error 1
+make[1]: 离开目录“/home/vincent/Desktop/Qt_MyProject/g2o_obj/g2o_add_edge/cmake-build-debug/CMakeFiles/CMakeTmp”
+Makefile:121: recipe for target 'cmTC_fa06d/fast' failed
+make: *** [cmTC_fa06d/fast] Error 2
+
+
