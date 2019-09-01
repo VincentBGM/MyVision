@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="g2o_BA" targetName="g2o_BA" />
+      <config projectName="g2o_BA" targetName="BALProblem" />
+      <config projectName="g2o_BA" targetName="ParseCmd" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87de6c59-ce11-486d-9a94-beb0d06dbcd4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/g2o_bal_class.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="218" column="9" lean-forward="true" selection-start-line="218" selection-start-column="9" selection-end-line="218" selection-end-column="9" />
+              <folding>
+                <element signature="e#1#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/g2o_bundle.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="191" column="75" selection-start-line="191" selection-start-column="75" selection-end-line="191" selection-end-column="75" />
+              <folding>
+                <element signature="e#1#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ceres/variadic_evaluate.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2000">
+              <caret line="173" column="39" lean-forward="true" selection-start-line="173" selection-start-column="39" selection-end-line="173" selection-end-column="39" />
+              <folding>
+                <element signature="e#1848#1867#0" expanded="true" />
+                <element signature="e#2255#2381#0" expanded="true" />
+                <element signature="e#2997#3115#0" expanded="true" />
+                <element signature="e#3741#3851#0" expanded="true" />
+                <element signature="e#4435#4537#0" expanded="true" />
+                <element signature="e#5079#5173#0" expanded="true" />
+                <element signature="e#5673#5743#0" expanded="true" />
+                <element signature="e#6201#6263#0" expanded="true" />
+                <element signature="e#6679#6733#0" expanded="true" />
+                <element signature="e#7107#7153#0" expanded="true" />
+                <element signature="e#7485#7523#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ceres/autodiff.h" />
+        <option value="$PROJECT_DIR$/ceres/eigen.h" />
+        <option value="$PROJECT_DIR$/ceres/fixed_array.h" />
+        <option value="$PROJECT_DIR$/ceres/fpclassify.h" />
+        <option value="$PROJECT_DIR$/ceres/jet.h" />
+        <option value="$PROJECT_DIR$/ceres/macros.h" />
+        <option value="$PROJECT_DIR$/ceres/manual_constructor.h" />
+        <option value="$PROJECT_DIR$/common/flags/command_args.h" />
+        <option value="$PROJECT_DIR$/common/flags/command_args.cpp" />
+        <option value="$PROJECT_DIR$/common/tools/random.h" />
+        <option value="$PROJECT_DIR$/common/tools/rotation.h" />
+        <option value="$PROJECT_DIR$/common/BundleParams.h" />
+        <option value="$PROJECT_DIR$/common/projection.h" />
+        <option value="$PROJECT_DIR$/common/BALProblem.h" />
+        <option value="$PROJECT_DIR$/common/BALProblem.cpp" />
+        <option value="$PROJECT_DIR$/g2o_bal_class.h" />
+        <option value="$PROJECT_DIR$/ceres/variadic_evaluate.h" />
+        <option value="$PROJECT_DIR$/g2o_bundle.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-g2o_BA" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="45" />
+    <option name="y" value="25" />
+    <option name="width" value="1181" />
+    <option name="height" value="604" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="g2o_BA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="g2o_BA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="g2o_BA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="g2o_BA" type="462c0819:PsiDirectoryNode" />
+              <item name="ceres" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.C/C++" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.g2o_BA">
+    <configuration name="BALProblem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="g2o_BA" TARGET_NAME="BALProblem" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseCmd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="g2o_BA" TARGET_NAME="ParseCmd" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="g2o_BA" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="g2o_BA" TARGET_NAME="g2o_BA" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="g2o_BA" RUN_TARGET_NAME="g2o_BA">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.BALProblem" />
+      <item itemvalue="CMake Application.g2o_BA" />
+      <item itemvalue="CMake Application.ParseCmd" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87de6c59-ce11-486d-9a94-beb0d06dbcd4" name="Default Changelist" comment="" />
+      <created>1563777480582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563777480582</updated>
+      <workItem from="1563777481778" duration="8530000" />
+      <workItem from="1564222195729" duration="24254000" />
+      <workItem from="1564296157483" duration="1549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34333000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="25" width="1321" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18863457" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32561985" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3289256" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/common/flags/command_args.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#55#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/tools/random.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#51#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/tools/rotation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="146" column="10" lean-forward="true" selection-start-line="146" selection-start-column="10" selection-end-line="146" selection-end-column="10" />
+          <folding>
+            <element signature="e#56#76#0" expanded="true" />
+            <element signature="e#270#282#0" expanded="true" />
+            <element signature="e#398#410#0" expanded="true" />
+            <element signature="e#736#748#0" expanded="true" />
+            <element signature="e#1538#1550#0" expanded="true" />
+            <element signature="e#3005#3017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/flags/command_args.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="e#2#27#0" expanded="true" />
+            <element signature="e#3326#3338#0" expanded="true" />
+            <element signature="e#3604#3653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/BundleParams.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="77" column="76" lean-forward="true" selection-start-line="77" selection-start-column="76" selection-end-line="77" selection-end-column="76" />
+          <folding>
+            <element signature="e#64#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/projection.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#365#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/BALProblem.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="474" column="25" lean-forward="true" selection-start-line="474" selection-start-column="25" selection-end-line="474" selection-end-column="25" />
+          <folding>
+            <element signature="e#2#25#0" expanded="true" />
+            <element signature="e#295#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/BALProblem.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="98" column="44" lean-forward="true" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
+          <folding>
+            <element signature="e#60#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceres/eigen.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="92" column="34" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
+          <folding>
+            <element signature="e#2787#2849#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceres/fixed_array.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding>
+            <element signature="e#3224#3253#0" expanded="true" />
+            <element signature="e#3284#3313#0" expanded="true" />
+            <element signature="e#3339#3381#0" expanded="true" />
+            <element signature="e#6850#6870#0" expanded="true" />
+            <element signature="e#7456#7476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceres/fpclassify.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+          <folding>
+            <element signature="e#2012#2030#0" expanded="true" />
+            <element signature="e#2103#2470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceres/jet.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="732" column="9" selection-start-line="732" selection-start-column="9" selection-end-line="732" selection-end-column="9" />
+          <folding>
+            <element signature="e#6920#6936#0" expanded="true" />
+            <element signature="e#7084#7103#0" expanded="true" />
+            <element signature="e#9499#9518#0" expanded="true" />
+            <element signature="e#9751#9770#0" expanded="true" />
+            <element signature="e#9933#9952#0" expanded="true" />
+            <element signature="e#10191#10210#0" expanded="true" />
+            <element signature="e#10402#10421#0" expanded="true" />
+            <element signature="e#10592#10611#0" expanded="true" />
+            <element signature="e#10850#10869#0" expanded="true" />
+            <element signature="e#11061#11080#0" expanded="true" />
+            <element signature="e#11252#11271#0" expanded="true" />
+            <element signature="e#11522#11541#0" expanded="true" />
+            <element signature="e#11737#11756#0" expanded="true" />
+            <element signature="e#11931#11950#0" expanded="true" />
+            <element signature="e#12616#12635#0" expanded="true" />
+            <element signature="e#12907#12926#0" expanded="true" />
+            <element signature="e#15380#15399#0" expanded="true" />
+            <element signature="e#15537#15556#0" expanded="true" />
+            <element signature="e#15795#15814#0" expanded="true" />
+            <element signature="e#16014#16033#0" expanded="true" />
+            <element signature="e#16293#16312#0" expanded="true" />
+            <element signature="e#16554#16573#0" expanded="true" />
+            <element signature="e#16825#16844#0" expanded="true" />
+            <element signature="e#17084#17103#0" expanded="true" />
+            <element signature="e#17361#17380#0" expanded="true" />
+            <element signature="e#17659#17678#0" expanded="true" />
+            <element signature="e#17927#17946#0" expanded="true" />
+            <element signature="e#18181#18200#0" expanded="true" />
+            <element signature="e#18443#18462#0" expanded="true" />
+            <element signature="e#19400#19419#0" expanded="true" />
+            <element signature="e#19762#19781#0" expanded="true" />
+            <element signature="e#20117#20136#0" expanded="true" />
+            <element signature="e#20465#20484#0" expanded="true" />
+            <element signature="e#20964#20983#0" expanded="true" />
+            <element signature="e#21459#21478#0" expanded="true" />
+            <element signature="e#21811#21830#0" expanded="true" />
+            <element signature="e#22170#22189#0" expanded="true" />
+            <element signature="e#23130#23149#0" expanded="true" />
+            <element signature="e#23252#23271#0" expanded="true" />
+            <element signature="e#23374#23393#0" expanded="true" />
+            <element signature="e#23496#23515#0" expanded="true" />
+            <element signature="e#23618#23637#0" expanded="true" />
+            <element signature="e#23740#23759#0" expanded="true" />
+            <element signature="e#23862#23881#0" expanded="true" />
+            <element signature="e#23984#24003#0" expanded="true" />
+            <element signature="e#24106#24125#0" expanded="true" />
+            <element signature="e#24228#24247#0" expanded="true" />
+            <element signature="e#24350#24369#0" expanded="true" />
+            <element signature="e#24472#24491#0" expanded="true" />
+            <element signature="e#24594#24613#0" expanded="true" />
+            <element signature="e#24716#24735#0" expanded="true" />
+            <element signature="e#24838#24857#0" expanded="true" />
+            <element signature="e#24960#24979#0" expanded="true" />
+            <element signature="e#25275#25294#0" expanded="true" />
+            <element signature="e#25650#25669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceres/macros.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="170" column="42" selection-start-line="170" selection-start-column="42" selection-end-line="170" selection-end-column="42" />
+          <folding>
+            <element signature="e#3906#3928#0" expanded="true" />
+            <element signature="e#4179#4201#0" expanded="true" />
+            <element signature="e#6917#6940#0" expanded="true" />
+            <element signature="e#7179#7271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceres/manual_constructor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="207" column="54" selection-start-line="207" selection-start-column="54" selection-end-line="207" selection-end-column="54" />
+          <folding>
+            <element signature="e#2696#2721#0" expanded="true" />
+            <element signature="e#2760#2770#0" expanded="true" />
+            <element signature="e#3887#3902#0" expanded="true" />
+            <element signature="e#5102#5115#0" expanded="true" />
+            <element signature="e#5236#5262#0" expanded="true" />
+            <element signature="e#5401#5440#0" expanded="true" />
+            <element signature="e#5597#5649#0" expanded="true" />
+            <element signature="e#5824#5889#0" expanded="true" />
+            <element signature="e#6111#6209#0" expanded="true" />
+            <element signature="e#6449#6560#0" expanded="true" />
+            <element signature="e#6818#6942#0" expanded="true" />
+            <element signature="e#7218#7355#0" expanded="true" />
+            <element signature="e#7678#7829#0" expanded="true" />
+            <element signature="e#8173#8358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceres/autodiff.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="242" column="52" lean-forward="true" selection-start-line="242" selection-start-column="52" selection-end-line="242" selection-end-column="52" />
+          <folding>
+            <element signature="e#7398#7432#0" expanded="true" />
+            <element signature="e#7863#7890#0" expanded="true" />
+            <element signature="e#8237#8279#0" expanded="true" />
+            <element signature="e#8829#9011#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/g2o_bal_class.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="218" column="9" lean-forward="true" selection-start-line="218" selection-start-column="9" selection-end-line="218" selection-end-column="9" />
+          <folding>
+            <element signature="e#1#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceres/variadic_evaluate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2000">
+          <caret line="173" column="39" lean-forward="true" selection-start-line="173" selection-start-column="39" selection-end-line="173" selection-end-column="39" />
+          <folding>
+            <element signature="e#1848#1867#0" expanded="true" />
+            <element signature="e#2255#2381#0" expanded="true" />
+            <element signature="e#2997#3115#0" expanded="true" />
+            <element signature="e#3741#3851#0" expanded="true" />
+            <element signature="e#4435#4537#0" expanded="true" />
+            <element signature="e#5079#5173#0" expanded="true" />
+            <element signature="e#5673#5743#0" expanded="true" />
+            <element signature="e#6201#6263#0" expanded="true" />
+            <element signature="e#6679#6733#0" expanded="true" />
+            <element signature="e#7107#7153#0" expanded="true" />
+            <element signature="e#7485#7523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/g2o_bundle.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="191" column="75" selection-start-line="191" selection-start-column="75" selection-end-line="191" selection-end-column="75" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

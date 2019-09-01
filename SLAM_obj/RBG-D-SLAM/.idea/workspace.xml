@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="RGB-D-SLAM" targetName="detectFeatures" />
+      <config projectName="RGB-D-SLAM" targetName="joinPointCloud" />
+      <config projectName="RGB-D-SLAM" targetName="generate_pointcloud" />
+      <config projectName="RGB-D-SLAM" targetName="main" />
+      <config projectName="RGB-D-SLAM" targetName="visualOdometry" />
+      <config projectName="RGB-D-SLAM" targetName="slam" />
+      <config projectName="RGB-D-SLAM" targetName="slamBase" />
+      <config projectName="RGB-D-SLAM" targetName="slamEnd" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa5d367e-efe9-414f-9849-fc09c8919633" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/slamEnd.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/detecFeatures.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/CMakeLists.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/slamBase.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/include/slamBase.hpp" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1OwnTVNlz9ZxWikxkOZIr8UWH63" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/myslam/ORB_SLAM2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.C/C++" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.visualOdometry">
+    <configuration name="detectFeatures" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RGB-D-SLAM" TARGET_NAME="detectFeatures" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RGB-D-SLAM" RUN_TARGET_NAME="detectFeatures">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generate_pointcloud" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RGB-D-SLAM" TARGET_NAME="generate_pointcloud" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RGB-D-SLAM" RUN_TARGET_NAME="generate_pointcloud">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joinPointCloud" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RGB-D-SLAM" TARGET_NAME="joinPointCloud" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RGB-D-SLAM" RUN_TARGET_NAME="joinPointCloud">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RGB-D-SLAM" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RGB-D-SLAM" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="slam" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RGB-D-SLAM" TARGET_NAME="slam" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RGB-D-SLAM" RUN_TARGET_NAME="slam">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="slamBase" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RGB-D-SLAM" TARGET_NAME="slamBase" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="slamEnd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RGB-D-SLAM" TARGET_NAME="slamEnd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RGB-D-SLAM" RUN_TARGET_NAME="slamEnd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualOdometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RGB-D-SLAM" TARGET_NAME="visualOdometry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RGB-D-SLAM" RUN_TARGET_NAME="visualOdometry">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.detectFeatures" />
+      <item itemvalue="CMake Application.generate_pointcloud" />
+      <item itemvalue="CMake Application.joinPointCloud" />
+      <item itemvalue="CMake Application.main" />
+      <item itemvalue="CMake Application.slamBase" />
+      <item itemvalue="CMake Application.slamEnd" />
+      <item itemvalue="CMake Application.slam" />
+      <item itemvalue="CMake Application.visualOdometry" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa5d367e-efe9-414f-9849-fc09c8919633" name="Default Changelist" comment="" />
+      <created>1561805723018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561805723018</updated>
+      <workItem from="1561805724183" duration="1782000" />
+      <workItem from="1561807529445" duration="527000" />
+      <workItem from="1561858764519" duration="16600000" />
+      <workItem from="1561981815565" duration="10696000" />
+      <workItem from="1562067288653" duration="1288000" />
+      <workItem from="1562071363680" duration="9357000" />
+      <workItem from="1562123868098" duration="1666000" />
+      <workItem from="1562132747027" duration="10971000" />
+      <workItem from="1562203045429" duration="6677000" />
+      <workItem from="1562219674592" duration="9057000" />
+      <workItem from="1562241369172" duration="2794000" />
+      <workItem from="1562377903452" duration="1533000" />
+      <workItem from="1564820047853" duration="5681000" />
+      <workItem from="1564912938149" duration="1026000" />
+      <workItem from="1564885340494" duration="9557000" />
+      <workItem from="1564974006260" duration="188000" />
+      <workItem from="1564974433636" duration="14999000" />
+      <workItem from="1565003901966" duration="7313000" />
+      <workItem from="1565012786534" duration="1587000" />
+      <workItem from="1565077841965" duration="4342000" />
+      <workItem from="1565089741376" duration="2089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
