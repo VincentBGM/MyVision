@@ -148,7 +148,7 @@ inline static CAMERA_INTRINSIC_PARAMETERS getDefaultCamera()
     ParameterReader pd;
     CAMERA_INTRINSIC_PARAMETERS camera;
 
-    // atof() 字符串 ==》 双精度浮点类型
+   
     camera.fx = atof( pd.getData("camera.fx").c_str());
     camera.fy = atof( pd.getData("camera.fy").c_str());
     camera.cx = atof( pd.getData("camera.cx").c_str());
@@ -176,7 +176,7 @@ double normofTransform( cv::Mat rvec, cv::Mat tvec );
 
 CHECK_RESULT checkKeyframes( FRAME& frame1, FRAME& frame2, g2o::SparseOptimizer& opti, bool is_loops=false ); // 匹配当前帧与keyframes里最后一帧
 
-// 回环检测==============================非常重要
+// 回环检测
 void checkNearbyLoops(vector<FRAME>& keyFrams, FRAME& currFrame, g2o::SparseOptimizer& optimizer);
 
 void checkRandomLoops(vector<FRAME>& keyFrams, FRAME& currFrame, g2o::SparseOptimizer& optimizer);
